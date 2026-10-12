@@ -13,3 +13,4 @@ Short log of calls that aren't obvious from the code. Newest at the bottom.
 | 2026-10-12 | Uzbekistan payments via activation codes sold outside the app | Uzcard/Humo can't pay in the stores, and store rules limit linking to outside payment. Codes keep the app compliant. |
 | 2026-10-12 | Red-flag rules and test cases live in `/content/safety` | The device and the Edge Function must run the exact same rules. |
 | 2026-10-12 | Routes in `apps/mobile/src/app/` | Expo Router's default when there's a `src/` folder, so all app code sits in one place. |
+| 2026-10-12 | M1 log sheet uses expo-router's native `formSheet`, not `@gorhom/bottom-sheet` | Native sheet with no extra deps for M1. So `react-native-reanimated`, `react-native-gesture-handler` and `@gorhom/bottom-sheet` aren't direct deps yet; add them when motion work needs them. |
