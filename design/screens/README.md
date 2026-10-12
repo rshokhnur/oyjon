@@ -1,12 +1,3 @@
 # Screens
 
-One file per screen: purpose, content, states (empty/loading/error), and a Figma frame link.
-
-MVP screens to spec:
-- [ ] Onboarding
-- [ ] Home (today view)
-- [ ] Tracker: feeding / sleep / diaper
-- [ ] Week-by-week guide
-- [ ] Vaccination calendar
-- [ ] Growth log
-- [ ] Settings
+One file per screen, named by its ID from the screen inventory (e.g. `O1-welcome.md`, `T1-today.md`), with a Figma frame link and any notes for implementation.

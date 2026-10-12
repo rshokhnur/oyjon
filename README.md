@@ -1,26 +1,25 @@
-# Oyjon
+# oyjon
 
-A mobile app for young mothers: pregnancy and baby care guidance, trackers, and a supportive community, built for Uzbekistan first.
+A calm baby tracker for pregnancy and the first year, Uzbek first. Logs fill a monthly "moon" that becomes a keepsake, and an Uzbek AI assistant answers only from doctor-reviewed cards.
 
-Everything lives in this one repo: plan, design, and code.
+**Start with [`CLAUDE.md`](CLAUDE.md)**: the main spec, stack and milestones. It wins over everything else.
 
 ## Layout
 
 | Folder | What's in it |
 | --- | --- |
-| `docs/` | Product plan, roadmap, decisions. Start with [`docs/product-plan.md`](docs/product-plan.md). |
-| `design/` | Brand, design principles, screen specs, exported assets. Figma links go in [`design/README.md`](design/README.md). |
-| `apps/mobile/` | The Expo (React Native + TypeScript) app. |
-| `backend/` | Placeholder. Empty until the app needs a server (accounts sync, community). |
+| `CLAUDE.md` | Project brief: product, stack, rules, milestones |
+| `docs/` | Detailed specs (scope, screens and flows, companion, research), safety changelog, decisions |
+| `design/` | UI design work, Figma links, exported assets |
+| `apps/mobile/` | Expo + React Native + TypeScript app |
+| `supabase/` | Backend (placeholder until Milestone 3) |
 
 ## Running the app
 
 ```bash
 cd apps/mobile
 npm install
-npm start        # scan the QR code with Expo Go
+npm start
 ```
 
-## Why one repo
-
-At this stage one repo is simpler: plans, designs and code change together and stay linked in the same PRs. Split out only if a backend grows its own team or deploy cycle.
+Milestone 1 switches the app to an Expo dev build (`expo-dev-client`) with expo-router; run steps will be updated then.
