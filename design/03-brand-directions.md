@@ -1,32 +1,43 @@
-# Step 5 preview: 3 brand directions
+# Step 5 preview: brand directions (v2)
 
-Boards: [05 Brand](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=16-2) in Figma. Each board has day and night colours, type, and three small sketches: Today by day, Today at night, and a keepsake card. The sketches only show mood. They aren't layouts.
+Boards: [05 Brand](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=20-2) in Figma. Each board shows three real screens (Today by day, Today at night with a sleep running, the month's moon keepsake), plus the palette and type.
 
 Built from Shokhnur's picks in [`02-references.md`](02-references.md): Gaia Baby as the main reference, plus Headspace, Lifesum, Airbnb and Stoic from round 1 and Huckleberry, Nara, Finch, Headspace and Airbnb from round 2.
 
-| | A. Warm paper | B. Sage morning | C. Sunny lamp |
-|---|---|---|---|
-| Feel | A keepsake book you use every day | Fresh early-morning air, closest to Gaia | Cheerful and friendly, the best home for Oyim |
-| Day colours | Cream paper, honey, brown ink, sage support | Pale sage-grey, soft green, peach support | Butter cream, apricot, sky-blue support |
-| Type | Onest (UI) + Lora (keepsake moments) | Commissioner | Nunito |
-| Watch out | Can drift into all-beige | Green can read as "pharmacy"; cooler than the amber night | Rounded type is near Headspace's, which wasn't loved; apricot sits close to the 103 red |
+## What changed from v1
+v1 had three directions. Shokhnur kept A and B and dropped C (Sunny lamp), but said both "look cheap". v2 is the premium pass:
+- **Calmer colour.** Chroma roughly halved. Backgrounds are near-white paper, not tinted cream or green.
+- **Ink buttons.** The main button is near-black ink, not the accent colour. Accent is only for the moon and small marks.
+- **Real screens, not mood sketches.** Proper hierarchy, generous spacing, soft layered shadows, 24–28 radius cards.
+- **Line icons and a lit moon** (soft gradient, faint craters, blurred phase shadow, glow) instead of flat circles.
+- **Heavier type.** Nothing in Light. Big numbers do the talking.
 
-**My pick: A.** It's the closest to what you liked: Stoic's type and warmed neutrals, Headspace's warmth turned down, Airbnb's clean cards and Gaia's calm. Its amber night mode flows straight from the day palette. B's sage already sits in A as the support colour.
+| | A. Warm paper | B. Sage morning |
+|---|---|---|
+| Feel | A keepsake book you use every day. Quiet, grown-up | Fresh and modern, closest to Gaia |
+| Day colours | Paper white `#FAF7F3`, warm charcoal ink, honey moon, sage support | Sage-white `#F6F7F4`, green-black ink, cream moon, peach support |
+| Type | Source Serif 4 (titles, numbers, keepsakes) + Onest (interface) | Commissioner throughout, Medium with tight spacing for titles |
+| Night | Warm near-black, amber text (same in both) | Same |
+| Watch out | Serif needs care at small sizes; keep it for big moments | Can feel more "app-like" and less ownable |
+
+**My pick: A.** The serif makes the moon keepsake feel like a real heirloom, which is the thing people share. B is the safer, more Gaia-like option.
 
 ## How the colours were made
-- Every colour starts in OKLCH. Neutrals are Stoic-style greys moved to a warm hue (55 to 80) at very low chroma.
-- Night (21:00 to 06:00) is the same in all three: warm near-black with amber text and accent. That way the 3am screens never flash white or blue.
-- Red isn't in any palette. It's kept for the 103 screen only.
+- Every colour starts in OKLCH. Neutrals are Stoic-style greys moved to a warm hue (A, around 60–85) or a green-grey hue (B, around 120–160), at very low chroma.
+- Night (21:00 to 06:00) is the same in both: warm near-black with amber text and accent, so 3am screens never flash white, green or blue.
+- Red isn't in either palette. It's kept for the 103 screen only.
 
 **Contrast (WCAG):**
 
-| Pair | A | B | C |
-|---|---|---|---|
-| ink on bg | 14.1 | 14.4 | 13.6 |
-| muted on bg | 5.6 | 5.5 | 5.1 |
-| accentInk on bg | 5.8 | 6.4 | 4.9 |
-| white on accentInk (button) | 6.2 | 6.9 | 5.3 |
-| night ink on night bg | 12.2 | 12.2 | 12.6 |
+| Pair | A | B |
+|---|---|---|
+| ink on bg | 15.6 | 15.1 |
+| muted on bg | 4.6 | 4.7 |
+| accentDeep on bg | 5.3 | 5.9 |
+| surface on ink (button) | 16.4 | 16.0 |
+| night ink on night bg | 13.0 | 13.0 |
+| night muted on night bg | 5.7 | 5.7 |
+| night bg on night accent (button) | 8.6 | 8.6 |
 
 Every pair passes AA for body text (4.5 or more).
 
@@ -38,7 +49,5 @@ Each font was checked for the Uzbek Latin ʻ (U+02BB, as in *koʻkrak*) and the 
 - **Missing Uzbek Cyrillic:** Manrope (Қ Ғ Ҳ), Rubik (Ҳ), Literata (Ҳ), Wix Madefor, Unbounded, Playfair Display.
 - **No Cyrillic at all:** Figtree, DM Sans, Plus Jakarta Sans, Mona Sans, Fraunces, Outfit, Sora, Hanken Grotesk, Albert Sans, Newsreader, Young Serif.
 
-Nunito draws ʻ quite wide (*ko`krak*), which is something to check if C wins.
-
 ## Next
-Pick a direction, or mix them (for example "A, with C's apricot for Oyim"). Then the logo and Oyim sketches get explored inside it.
+Pick A, B, or a mix (for example "B's colours with A's serif"). Then the logo and Oyim sketches get explored inside it.
