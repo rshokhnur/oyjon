@@ -1,6 +1,6 @@
 # Step 5: logo
 
-**Final (2026-10-12): "Moon in the word".** The moon is the o of the serif oyjon wordmark (Source Serif 4, tightened tracking). There's no separate mark. App icon stays **A · Night**. It lives on the 05 Brand page in Figma.
+**Final (2026-10-12): "Moon in the word".** The moon is the o of the serif oyjon wordmark (Source Serif 4, tightened tracking). There's no separate mark. App icon stays **A · Night**. It lives on the 05 Brand page in Figma (Logo guidelines, node 62-450; App icon guidelines, node 68-670). Full rules in [`07-brand-final.md`](07-brand-final.md).
 
 Earlier pick (replaced): a separate saffron Moon o mark next to the wordmark.
 
