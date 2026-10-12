@@ -7,7 +7,7 @@ Where a screen says **103**, that's the Uzbekistan number; the app always uses `
 **Design principles**
 - **One thumb at 3am.** Log tiles sit low, with a 56pt+ hit area.
 - **Calm.** No streaks, no red badges for missed logs, no scores. Percentiles are shown as reference points.
-- **Night mode.** It turns on automatically from 21:00 to 06:00: dim warm amber, low contrast, no white flashes.
+- **Night mode.** It turns on automatically from 21:00 to 06:00: deep indigo with warm saffron and cream text, low contrast, no white flashes.
 - **Safety beats paywalls.** The 103 screen, loss mode, export and deletion are never paywalled or rate-limited.
 - **Taste.**
   - From Airbnb: big tactile cards, a sticky bottom action, sheets that expand to full screen, shared-element transitions from a card to its detail screen.
@@ -276,7 +276,7 @@ flowchart TD
 | **Answer card** | The answer unfolds from the moon; citation chips slide in last; the baby's numbers get a soft highlight | Linear's calm progressive reveal |
 | **103 screen** | No playful motion: an instant, solid transition and a strong haptic. Seriousness is the point. | — |
 | **Plus success** | The moon glows gold once, no confetti | — |
-| **Night mode** | Warm amber cross-fade at 21:00; animations slow down by 30% | — |
+| **Night mode** | Indigo night cross-fade at 21:00; animations slow down by 30% | — |
 
 Respect the system "Reduce Motion" setting: replace the motion with simple fades.
 
@@ -297,4 +297,4 @@ Respect the system "Reduce Motion" setting: replace the motion with simple fades
 9. **Companion (Oyim) Rive rig:** sketch her alongside steps 1–3 so her states match the moon system
 10. **S5 Plus**, **S1–S3, S6 Settings, family and export**
 
-**Design system first (½ day):** colour tokens (day and amber night), type scale with Uzbek and Cyrillic glyph checks (long Uzbek words like "ovqatlantirish" (feeding) must not break layouts), moon icon set (8 phases), caregiver colours, spring presets (tight, soft, slow).
+**Design system first (½ day):** colour tokens (day and indigo night), type scale with Uzbek and Cyrillic glyph checks (long Uzbek words like "ovqatlantirish" (feeding) must not break layouts), moon icon set (8 phases), caregiver colours, spring presets (tight, soft, slow).

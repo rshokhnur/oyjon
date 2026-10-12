@@ -1,4 +1,6 @@
-# Step 5 preview: brand directions (v3, colour)
+# Step 5: brand directions
+
+**Chosen (2026-10-12): A2 Saffron and indigo**, with Source Serif 4 for titles, numbers and keepsakes and Onest for the interface. It's marked on the A board in Figma.
 
 Boards: [05 Brand](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=23-2) in Figma. One board per direction, each with three colour options. Every option is shown on the same three screens (Today by day, Today at night with a sleep running, the month's moon keepsake).
 
