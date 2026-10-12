@@ -18,3 +18,5 @@ Each option is shown on paper, on night indigo, as the launch screen and as the 
 | 3 | Moon o: a ring thicker on one side | Source Serif 4 Medium | The o of oyjon as a crescent; the most typographic |
 
 **My pick: 1, Moon cradle.** It has the clearest story, it's still readable at 29 pt, and the rounded sans feels warmer next to a baby than a serif.
+
+**Shokhnur's feedback (2026-10-12):** liked option 3, Moon o, "a bit", specifically the stacked launch screen (saffron ring above the cream serif wordmark on the indigo gradient). Next: render the app icon in the style of Dmitri Litvinov's icons ([appicons.store](https://www.appicons.store/), @dmiiiitrii on X), keeping Moon o as the base.
