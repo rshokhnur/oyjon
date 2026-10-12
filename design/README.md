@@ -18,4 +18,5 @@ Main file: https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe
 
 - [`oyim/research.md`](oyim/research.md): Grok Bot research and what we take for Oyim
 - [`oyim/animation-handoff.md`](oyim/animation-handoff.md): handoff for building Oyim's animation in code
+- [`colour.md`](colour.md): the final brand palette in OKLCH and hex
 - [`references.md`](references.md): third-party references kept off the repo
