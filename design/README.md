@@ -5,8 +5,17 @@ Shokhnur's space for the UI. The app ships with placeholder tokens and unstyled 
 - Screens, flows and design order: [`../docs/spec/screens-and-flows.md`](../docs/spec/screens-and-flows.md)
 - Companion (Oyim): [`../docs/spec/companion.md`](../docs/spec/companion.md)
 - [`screens/`](screens/): per-screen notes and Figma frame links
-- [`assets/`](assets/): exported logos, icons, illustrations, Rive files
+- [`assets/`](assets/): exported logos, icons, illustrations, Rive files. `assets/app-icon/grain-256.png` is the tiled grain on the app icon sky.
 
 ## Figma
 
-Add the main Figma file link here.
+Main file: https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe
+
+- 02 Research and moodboard: Mobbin screens for 10 apps
+- 05 Brand: brand board, logo guidelines and the `Logo` component, app icon guidelines and the `App icon` component, and Oyim with the `Oyim` component
+
+## Notes
+
+- [`oyim/research.md`](oyim/research.md): Grok Bot research and what we take for Oyim
+- [`oyim/animation-handoff.md`](oyim/animation-handoff.md): handoff for building Oyim's animation in code
+- [`references.md`](references.md): third-party references kept off the repo
