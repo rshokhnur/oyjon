@@ -1,0 +1,111 @@
+{
+  "tabs": {
+    "today": "Today",
+    "diary": "Diary",
+    "moons": "Moons",
+    "ask": "Ask",
+    "log": "Add entry",
+    "logHint": "Tap to log. Press and hold for voice."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "delete": "Delete",
+    "edit": "Edit",
+    "undo": "Undo",
+    "saved": "Saved",
+    "deleted": "Deleted",
+    "comingSoon": "Coming soon",
+    "now": "Now"
+  },
+  "caregiver": {
+    "me": "You"
+  },
+  "baby": {
+    "defaultName": "Baby",
+    "avatarLabel": "Open settings"
+  },
+  "age": {
+    "months_one": "{{count}} month",
+    "months_other": "{{count}} months",
+    "days_one": "{{count}} day",
+    "days_other": "{{count}} days",
+    "format": "{{months}} {{days}}"
+  },
+  "duration": {
+    "hours_one": "{{count}} h",
+    "hours_other": "{{count}} h",
+    "minutes_one": "{{count}} min",
+    "minutes_other": "{{count}} min"
+  },
+  "time": {
+    "justNow": "just now",
+    "ago": "{{duration}} ago"
+  },
+  "today": {
+    "emptyTitle": "Add your first entry",
+    "emptyHint": "Tap the moon button below.",
+    "lastFeed": "Last feed",
+    "lastSleep": "Last sleep",
+    "lastDiaper": "Last diaper",
+    "none": "Nothing yet",
+    "loggedBy": "Logged by {{name}}",
+    "timeline": "Today",
+    "running": "Running",
+    "stop": "Stop",
+    "editHint": "Opens the entry to edit or delete it."
+  },
+  "log": {
+    "title": "New entry",
+    "editTitle": "Edit entry",
+    "feed": "Feed",
+    "sleep": "Sleep",
+    "diaper": "Diaper",
+    "breast": "Breast",
+    "bottle": "Bottle",
+    "left": "Left",
+    "right": "Right",
+    "amountMl": "{{amount}} ml",
+    "decrease": "Less",
+    "increase": "More",
+    "start": "Start",
+    "stop": "Stop",
+    "timer": "Timer",
+    "manual": "Enter times",
+    "startedAt": "Started",
+    "endedAt": "Ended",
+    "time": "Time",
+    "earlier": "−5 min",
+    "later": "+5 min",
+    "wet": "Wet",
+    "dirty": "Dirty",
+    "both": "Both",
+    "endBeforeStart": "The end must be after the start.",
+    "amountInvalid": "Enter an amount between 1 and 500 ml.",
+    "inFuture": "The time can't be in the future.",
+    "breastSide": "{{side}} breast",
+    "bottleAmount": "Bottle, {{amount}} ml",
+    "sleepRange": "Sleep, {{duration}}",
+    "invalid": "Something's off. Check the entry.",
+    "finish": "Finish feed"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language"
+  },
+  "languages": {
+    "uz-Latn": "O‘zbek (lotin)",
+    "uz-Cyrl": "Ўзбек (кирил)",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "voice": {
+    "title": "Voice entry"
+  },
+  "placeholder": {
+    "diary": "Your daily timeline will live here.",
+    "moons": "Each month's moon will live here.",
+    "ask": "Ask questions answered by doctor-reviewed cards."
+  }
+}
