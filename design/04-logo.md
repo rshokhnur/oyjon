@@ -1,5 +1,7 @@
 # Step 5: logo
 
+**Chosen (2026-10-12):** the saffron Moon o mark with the Source Serif 4 wordmark, and app icon **A · Night**. It's marked in Figma (node 37:2).
+
 Board: [Logo · round 2](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=34-2) on the 05 Brand page.
 
 ## Round 1 (dropped)
