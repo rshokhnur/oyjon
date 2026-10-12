@@ -11,4 +11,4 @@ Shokhnur's space for the UI. The app ships with placeholder tokens and unstyled 
 
 ## Figma
 
-Add the main Figma file link here.
+Main file: [oyjon app](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app). One page per step in [`plan.md`](plan.md): Cover, 01 Brainstorm, 02 Research and moodboard, 03 Flows, 04 Wireframes, 05 Brand, 06 Design system, 07 Screens, 08 Handoff.

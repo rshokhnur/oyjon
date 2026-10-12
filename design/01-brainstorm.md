@@ -73,4 +73,4 @@ Before sketching, we still need real screenshots of the Grok bot avatars you lik
 2. Logo idea to explore first: 1 to 5, or your own?
 3. Oyim's personality: A (Oyim), B (Oyzoda) or C (Moonjon)?
 4. Can you talk to 3 to 5 mums in step 2? I'll write the questions.
-5. Figma: should I make a new file for the flows and wireframes, or do you have one to use?
+5. ~~Figma file~~ Done: we use [oyjon app](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app).
