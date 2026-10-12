@@ -4,7 +4,7 @@ Engineering brief for `apps/mobile`. The root [`CLAUDE.md`](../../CLAUDE.md) sti
 
 ## Stack
 - **Expo SDK (latest stable) + React Native + TypeScript (strict, no `any`).**
-- **Expo dev build, not Expo Go** (Rive needs native code). `expo-dev-client` with EAS or local builds.
+- **Expo dev build, not Expo Go** (Skia and other native modules need it). `expo-dev-client` with EAS or local builds.
 - **Navigation:** `expo-router`. Tabs: **Bugun** (Today), **Kundalik** (Diary), **Oy** (Moons), **So'rang** (Ask), plus a **centre moon ＋ button**. Tap opens the quick log sheet; long-press opens voice log. Settings and Family are a modal stack opened from the baby avatar.
 - **Local DB:** `expo-sqlite` + **Drizzle ORM** (drizzle-kit migrations). The local DB is the source of truth for logs.
 - **Backend (M3+):** Supabase (Postgres, Auth with phone OTP + Apple/Google, row-level security, Storage, Edge Functions, pgvector).
@@ -12,7 +12,7 @@ Engineering brief for `apps/mobile`. The root [`CLAUDE.md`](../../CLAUDE.md) sti
 - **Motion:** `react-native-reanimated`, `react-native-gesture-handler`, `@gorhom/bottom-sheet`.
 - **i18n:** `i18next` + `react-i18next` + `expo-localization`.
 - **Payments (M8):** RevenueCat for store purchases, plus server-checked activation codes (sold outside the app via Payme/Click).
-- **Mascot (M9):** `rive-react-native`, behind a placeholder component until then.
+- **Mascot (M9):** Oyim drawn in code with `@shopify/react-native-skia`, animated with Reanimated. Placeholder component until then. Ask before installing (native module).
 - **Tests:** Jest (`jest-expo`) + `@testing-library/react-native`. Later: Maestro for end-to-end.
 
 Why this stack (and what was rejected) is in [`docs/decisions.md`](../../docs/decisions.md).
