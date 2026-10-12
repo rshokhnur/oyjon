@@ -1,10 +1,30 @@
-# Step 5 preview: brand directions (v2)
+# Step 5 preview: brand directions (v3, colour)
 
-Boards: [05 Brand](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=20-2) in Figma. Each board shows three real screens (Today by day, Today at night with a sleep running, the month's moon keepsake), plus the palette and type.
+Boards: [05 Brand](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=23-2) in Figma. One board per direction, each with three colour options. Every option is shown on the same three screens (Today by day, Today at night with a sleep running, the month's moon keepsake).
 
 Built from Shokhnur's picks in [`02-references.md`](02-references.md): Gaia Baby as the main reference, plus Headspace, Lifesum, Airbnb and Stoic from round 1 and Huckleberry, Nara, Finch, Headspace and Airbnb from round 2.
 
-## What changed from v1
+## v3: colour options
+Shokhnur said the "cheap" feeling in v2 was the **colours**. Type and layout stay as they were. v2 had gone too grey and beige: grey-black ink, low-chroma tan accents, a muddy brown night. v3 gives each palette a real hue:
+- **Coloured ink** (cocoa, indigo, forest, teal, petrol) instead of grey-black. It's also the main button colour.
+- **Richer accents** for the moon and small marks.
+- **Night with its own colour** (plum, indigo, forest, teal, dusk), still very dark, with warm cream text and a warm moon. Nothing bright, white or blue-lit at 3am.
+
+| Option | Day | Night | Feel |
+|---|---|---|---|
+| **A1 Honey and plum night** | Paper `#FCF6ED`, cocoa ink `#321E16`, honey `#EDB25A` | Plum `#151024`, honey moon | A lamp in a dark room |
+| **A2 Saffron and indigo** | Paper `#FAF7EF`, indigo ink `#212750`, saffron `#F1BF4E`, turquoise `#91CBC6` | Indigo `#0C0F27`, saffron moon | Ikat and suzani colours, the most Uzbek |
+| **A3 Clay and cream** | Peach cream `#FEF5EC`, cocoa ink `#371F17`, clay `#E5955D` | Cocoa `#1F0F09`, apricot moon | Headspace warmth, the friendliest |
+| **B1 Forest and butter** | Sage white `#F4F8F2`, forest ink `#143525`, sage `#7BB587`, butter `#ECCB9E` | Forest `#041812`, cream moon | A deeper Gaia |
+| **B2 Mint and apricot** | Mint white `#F1FAF6`, teal ink `#08302A`, mint `#82D9B4`, apricot `#FBBB87` | Deep teal `#001819`, apricot moon | Lifesum freshness, the brightest |
+| **B3 Eucalyptus and dusk** | `#F1F9F9`, petrol ink `#082E38`, eucalyptus `#70B3AA`, lavender `#CABCE6` | Dusk indigo `#0B1326`, gold moon | The most grown-up |
+
+**My pick: A2 Saffron and indigo.** Nobody else in baby apps owns indigo and saffron, and it ties the moon to Uzbek textiles without any pattern. A1 is the safe warm choice.
+
+**Contrast (WCAG), worst case per option:** ink on bg 12.5 or more, muted on bg 4.5 or more, accentDeep on bg 5.1 or more, night text on night bg 14.2 or more, night muted 5.8 or more, night button text 9.1 or more. Every text pair passes AA.
+
+## v2 (type and layout, kept)
+### What changed from v1
 v1 had three directions. Shokhnur kept A and B and dropped C (Sunny lamp), but said both "look cheap". v2 is the premium pass:
 - **Calmer colour.** Chroma roughly halved. Backgrounds are near-white paper, not tinted cream or green.
 - **Ink buttons.** The main button is near-black ink, not the accent colour. Accent is only for the moon and small marks.
@@ -20,14 +40,14 @@ v1 had three directions. Shokhnur kept A and B and dropped C (Sunny lamp), but s
 | Night | Warm near-black, amber text (same in both) | Same |
 | Watch out | Serif needs care at small sizes; keep it for big moments | Can feel more "app-like" and less ownable |
 
-**My pick: A.** The serif makes the moon keepsake feel like a real heirloom, which is the thing people share. B is the safer, more Gaia-like option.
+v2 pick was A. The serif makes the moon keepsake feel like a real heirloom, which is the thing people share. B is the safer, more Gaia-like option.
 
 ## How the colours were made
-- Every colour starts in OKLCH. Neutrals are Stoic-style greys moved to a warm hue (A, around 60–85) or a green-grey hue (B, around 120–160), at very low chroma.
-- Night (21:00 to 06:00) is the same in both: warm near-black with amber text and accent, so 3am screens never flash white, green or blue.
+- Every colour starts in OKLCH. Page neutrals stay very light and low-chroma; ink, accents and night get real chroma (v3).
+- Night (21:00 to 06:00) is always very dark, with warm cream text and a warm moon, so 3am screens never flash white or bright.
 - Red isn't in either palette. It's kept for the 103 screen only.
 
-**Contrast (WCAG):**
+**Contrast (WCAG), v2 palettes:**
 
 | Pair | A | B |
 |---|---|---|
