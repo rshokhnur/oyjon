@@ -20,3 +20,12 @@ Each option is shown on paper, on night indigo, as the launch screen and as the 
 **My pick: 1, Moon cradle.** It has the clearest story, it's still readable at 29 pt, and the rounded sans feels warmer next to a baby than a serif.
 
 **Shokhnur's feedback (2026-10-12):** liked option 3, Moon o, "a bit", specifically the stacked launch screen (saffron ring above the cream serif wordmark on the indigo gradient). Next: render the app icon in the style of Dmitri Litvinov's icons ([appicons.store](https://www.appicons.store/), @dmiiiitrii on X), keeping Moon o as the base.
+
+## App icon in Dmitri's style
+Board: [App icon · Dmitri style](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=37-2). References: frame 35:2 (73 icons from appicons.store plus 8 close-ups). What his style does: one bold subject, glossy 3D light, rich gradients, a soft white highlight, sometimes cropped by the icon edge.
+
+- **A · Night:** glossy saffron Moon o floating in an indigo sky with stars.
+- **B · Rising:** the same moon, much bigger and cropped by the corner.
+- **C · Sunny:** a deep indigo Moon o on a saffron field.
+
+Each is shown at 440, 120, 76, 48 and 29 pt and together on a dark home screen. All are vectors.
