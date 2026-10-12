@@ -4,9 +4,9 @@
 
 ## First sketch
 
-**Rejected (2026-10-12):** Shokhnur found it "too childish" and "cheap looking". The board moved to the 05b Brand archive page. New variants are being made on Shokhnur's Mac with the local prototype skills.
+**Rejected (2026-10-12):** Shokhnur found it "too childish" and "cheap looking". The board moved to Figma version history. New variants are being made on Shokhnur's Mac with the local prototype skills.
 
-Board: Oyim · first sketch, node 41:2 on the 05b Brand archive page.
+Board: Oyim · first sketch, node 41:2.
 
 Personality: **Oyim**, a quiet older-sister moon who speaks rarely and smiles a lot (Shokhnur's pick, 2026-10-12). Rules are in [`../docs/spec/companion.md`](../docs/spec/companion.md).
 
