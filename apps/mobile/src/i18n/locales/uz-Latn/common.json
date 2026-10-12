@@ -1,0 +1,108 @@
+{
+  "tabs": {
+    "today": "Bugun",
+    "diary": "Kundalik",
+    "moons": "Oy",
+    "ask": "So‘rang",
+    "log": "Yozuv qo‘shish",
+    "logHint": "Yozish uchun bosing. Ovoz uchun bosib turing."
+  },
+  "common": {
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "close": "Yopish",
+    "delete": "O‘chirish",
+    "edit": "Tahrirlash",
+    "undo": "Qaytarish",
+    "saved": "Saqlandi",
+    "deleted": "O‘chirildi",
+    "comingSoon": "Tez orada",
+    "now": "Hozir"
+  },
+  "caregiver": {
+    "me": "Siz"
+  },
+  "baby": {
+    "defaultName": "Chaqaloq",
+    "avatarLabel": "Sozlamalarni ochish"
+  },
+  "age": {
+    "months_one": "{{count}} oy",
+    "months_other": "{{count}} oy",
+    "days_one": "{{count}} kun",
+    "days_other": "{{count}} kun",
+    "format": "{{months}} {{days}}"
+  },
+  "duration": {
+    "hours_one": "{{count}} soat",
+    "hours_other": "{{count}} soat",
+    "minutes_one": "{{count}} daqiqa",
+    "minutes_other": "{{count}} daqiqa"
+  },
+  "time": {
+    "justNow": "hozirgina",
+    "ago": "{{duration}} oldin"
+  },
+  "today": {
+    "emptyTitle": "Birinchi yozuvni qo‘shing",
+    "emptyHint": "Pastdagi oy tugmasini bosing.",
+    "lastFeed": "Oxirgi ovqat",
+    "lastSleep": "Oxirgi uyqu",
+    "lastDiaper": "Oxirgi taglik",
+    "none": "Hali yo‘q",
+    "loggedBy": "{{name}} yozdi",
+    "timeline": "Bugun",
+    "running": "Davom etmoqda",
+    "stop": "To‘xtatish"
+  },
+  "log": {
+    "title": "Yangi yozuv",
+    "editTitle": "Yozuvni tahrirlash",
+    "feed": "Ovqat",
+    "sleep": "Uyqu",
+    "diaper": "Taglik",
+    "breast": "Ko‘krak",
+    "bottle": "Shisha",
+    "left": "Chap",
+    "right": "O‘ng",
+    "amountMl": "{{amount}} ml",
+    "decrease": "Kamroq",
+    "increase": "Ko‘proq",
+    "start": "Boshlash",
+    "stop": "To‘xtatish",
+    "timer": "Taymer",
+    "manual": "Vaqtni kiritish",
+    "startedAt": "Boshlandi",
+    "endedAt": "Tugadi",
+    "time": "Vaqt",
+    "earlier": "−5 daqiqa",
+    "later": "+5 daqiqa",
+    "wet": "Ho‘l",
+    "dirty": "Iflos",
+    "both": "Ikkalasi",
+    "endBeforeStart": "Tugash vaqti boshlanishdan keyin bo‘lishi kerak.",
+    "amountInvalid": "1 dan 500 ml gacha miqdor kiriting.",
+    "inFuture": "Vaqt kelajakda bo‘lishi mumkin emas.",
+    "breastSide": "{{side}} ko‘krak",
+    "bottleAmount": "Shisha, {{amount}} ml",
+    "sleepRange": "Uyqu, {{duration}}"
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "language": "Til"
+  },
+  "languages": {
+    "uz-Latn": "O‘zbek (lotin)",
+    "uz-Cyrl": "Ўзбек (кирил)",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "voice": {
+    "title": "Ovozli yozuv"
+  },
+  "placeholder": {
+    "diary": "Kunlik yozuvlaringiz shu yerda bo‘ladi.",
+    "moons": "Har oyning oyi shu yerda bo‘ladi.",
+    "ask": "Shifokor ko‘rib chiqqan kartalar asosida savol bering."
+  }
+}

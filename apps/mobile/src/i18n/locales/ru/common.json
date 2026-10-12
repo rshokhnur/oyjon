@@ -1,0 +1,116 @@
+{
+  "tabs": {
+    "today": "Сегодня",
+    "diary": "Дневник",
+    "moons": "Луны",
+    "ask": "Спросить",
+    "log": "Добавить запись",
+    "logHint": "Нажмите, чтобы записать. Удерживайте для голоса."
+  },
+  "common": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "close": "Закрыть",
+    "delete": "Удалить",
+    "edit": "Изменить",
+    "undo": "Отменить",
+    "saved": "Сохранено",
+    "deleted": "Удалено",
+    "comingSoon": "Скоро",
+    "now": "Сейчас"
+  },
+  "caregiver": {
+    "me": "Вы"
+  },
+  "baby": {
+    "defaultName": "Малыш",
+    "avatarLabel": "Открыть настройки"
+  },
+  "age": {
+    "months_one": "{{count}} месяц",
+    "months_few": "{{count}} месяца",
+    "months_many": "{{count}} месяцев",
+    "months_other": "{{count}} месяца",
+    "days_one": "{{count}} день",
+    "days_few": "{{count}} дня",
+    "days_many": "{{count}} дней",
+    "days_other": "{{count}} дня",
+    "format": "{{months}} {{days}}"
+  },
+  "duration": {
+    "hours_one": "{{count}} ч",
+    "hours_few": "{{count}} ч",
+    "hours_many": "{{count}} ч",
+    "hours_other": "{{count}} ч",
+    "minutes_one": "{{count}} мин",
+    "minutes_few": "{{count}} мин",
+    "minutes_many": "{{count}} мин",
+    "minutes_other": "{{count}} мин"
+  },
+  "time": {
+    "justNow": "только что",
+    "ago": "{{duration}} назад"
+  },
+  "today": {
+    "emptyTitle": "Добавьте первую запись",
+    "emptyHint": "Нажмите кнопку с луной внизу.",
+    "lastFeed": "Последнее кормление",
+    "lastSleep": "Последний сон",
+    "lastDiaper": "Последний подгузник",
+    "none": "Пока нет",
+    "loggedBy": "Записал(а): {{name}}",
+    "timeline": "Сегодня",
+    "running": "Идёт",
+    "stop": "Стоп"
+  },
+  "log": {
+    "title": "Новая запись",
+    "editTitle": "Изменить запись",
+    "feed": "Кормление",
+    "sleep": "Сон",
+    "diaper": "Подгузник",
+    "breast": "Грудь",
+    "bottle": "Бутылочка",
+    "left": "Левая",
+    "right": "Правая",
+    "amountMl": "{{amount}} мл",
+    "decrease": "Меньше",
+    "increase": "Больше",
+    "start": "Начать",
+    "stop": "Стоп",
+    "timer": "Таймер",
+    "manual": "Ввести время",
+    "startedAt": "Начало",
+    "endedAt": "Конец",
+    "time": "Время",
+    "earlier": "−5 мин",
+    "later": "+5 мин",
+    "wet": "Мокрый",
+    "dirty": "Грязный",
+    "both": "Оба",
+    "endBeforeStart": "Конец должен быть позже начала.",
+    "amountInvalid": "Введите от 1 до 500 мл.",
+    "inFuture": "Время не может быть в будущем.",
+    "breastSide": "{{side}} грудь",
+    "bottleAmount": "Бутылочка, {{amount}} мл",
+    "sleepRange": "Сон, {{duration}}"
+  },
+  "settings": {
+    "title": "Настройки",
+    "language": "Язык"
+  },
+  "languages": {
+    "uz-Latn": "O‘zbek (lotin)",
+    "uz-Cyrl": "Ўзбек (кирил)",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "voice": {
+    "title": "Голосовая запись"
+  },
+  "placeholder": {
+    "diary": "Здесь будет ваш дневник по дням.",
+    "moons": "Здесь будет луна каждого месяца.",
+    "ask": "Задавайте вопросы. Ответы из карточек, проверенных врачами."
+  }
+}

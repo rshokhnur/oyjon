@@ -1,0 +1,108 @@
+{
+  "tabs": {
+    "today": "Бугун",
+    "diary": "Кундалик",
+    "moons": "Ой",
+    "ask": "Сўранг",
+    "log": "Ёзув қўшиш",
+    "logHint": "Ёзиш учун босинг. Овоз учун босиб туринг."
+  },
+  "common": {
+    "save": "Сақлаш",
+    "cancel": "Бекор қилиш",
+    "close": "Ёпиш",
+    "delete": "Ўчириш",
+    "edit": "Таҳрирлаш",
+    "undo": "Қайтариш",
+    "saved": "Сақланди",
+    "deleted": "Ўчирилди",
+    "comingSoon": "Тез орада",
+    "now": "Ҳозир"
+  },
+  "caregiver": {
+    "me": "Сиз"
+  },
+  "baby": {
+    "defaultName": "Чақалоқ",
+    "avatarLabel": "Созламаларни очиш"
+  },
+  "age": {
+    "months_one": "{{count}} ой",
+    "months_other": "{{count}} ой",
+    "days_one": "{{count}} кун",
+    "days_other": "{{count}} кун",
+    "format": "{{months}} {{days}}"
+  },
+  "duration": {
+    "hours_one": "{{count}} соат",
+    "hours_other": "{{count}} соат",
+    "minutes_one": "{{count}} дақиқа",
+    "minutes_other": "{{count}} дақиқа"
+  },
+  "time": {
+    "justNow": "ҳозиргина",
+    "ago": "{{duration}} олдин"
+  },
+  "today": {
+    "emptyTitle": "Биринчи ёзувни қўшинг",
+    "emptyHint": "Пастдаги ой тугмасини босинг.",
+    "lastFeed": "Охирги овқат",
+    "lastSleep": "Охирги уйқу",
+    "lastDiaper": "Охирги таглик",
+    "none": "Ҳали йўқ",
+    "loggedBy": "{{name}} ёзди",
+    "timeline": "Бугун",
+    "running": "Давом этмоқда",
+    "stop": "Тўхтатиш"
+  },
+  "log": {
+    "title": "Янги ёзув",
+    "editTitle": "Ёзувни таҳрирлаш",
+    "feed": "Овқат",
+    "sleep": "Уйқу",
+    "diaper": "Таглик",
+    "breast": "Кўкрак",
+    "bottle": "Шиша",
+    "left": "Чап",
+    "right": "Ўнг",
+    "amountMl": "{{amount}} мл",
+    "decrease": "Камроқ",
+    "increase": "Кўпроқ",
+    "start": "Бошлаш",
+    "stop": "Тўхтатиш",
+    "timer": "Таймер",
+    "manual": "Вақтни киритиш",
+    "startedAt": "Бошланди",
+    "endedAt": "Тугади",
+    "time": "Вақт",
+    "earlier": "−5 дақиқа",
+    "later": "+5 дақиқа",
+    "wet": "Ҳўл",
+    "dirty": "Ифлос",
+    "both": "Иккаласи",
+    "endBeforeStart": "Тугаш вақти бошланишдан кейин бўлиши керак.",
+    "amountInvalid": "1 дан 500 мл гача миқдор киритинг.",
+    "inFuture": "Вақт келажакда бўлиши мумкин эмас.",
+    "breastSide": "{{side}} кўкрак",
+    "bottleAmount": "Шиша, {{amount}} мл",
+    "sleepRange": "Уйқу, {{duration}}"
+  },
+  "settings": {
+    "title": "Созламалар",
+    "language": "Тил"
+  },
+  "languages": {
+    "uz-Latn": "O‘zbek (lotin)",
+    "uz-Cyrl": "Ўзбек (кирил)",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "voice": {
+    "title": "Овозли ёзув"
+  },
+  "placeholder": {
+    "diary": "Кунлик ёзувларингиз шу ерда бўлади.",
+    "moons": "Ҳар ойнинг ойи шу ерда бўлади.",
+    "ask": "Шифокор кўриб чиққан карталар асосида савол беринг."
+  }
+}
