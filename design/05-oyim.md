@@ -1,4 +1,8 @@
-# Step 5: Oyim, first sketch
+# Step 5: Oyim
+
+**Final (2026-10-12): Moonstone with Grok-style pill eyes**, Figma node 47:2, made on Shokhnur's Mac. The animation and code handoff is in `design/oyim-animation-handoff.md` on the Mac (not in the repo yet). Skia vs Rive is still open.
+
+## First sketch
 
 **Rejected (2026-10-12):** Shokhnur found it "too childish" and "cheap looking". The board moved to the 05b Brand archive page. New variants are being made on Shokhnur's Mac with the local prototype skills.
 
