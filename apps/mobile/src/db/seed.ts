@@ -17,10 +17,11 @@ export async function ensureLocalSeed(): Promise<void> {
   const birth = new Date();
   birth.setDate(birth.getDate() - 30);
 
-  await db.transaction(async (tx) => {
-    await tx.insert(families).values({ id: familyId, regionCode: 'UZ' });
-    await tx.insert(caregivers).values({ id: caregiverId, familyId, isMe: true, role: 'parent' });
-    await tx.insert(babies).values({ id: babyId, familyId, name: null, birthDate: toLocalYmd(birth), mode: 'baby' });
+  // expo-sqlite transactions in Drizzle are synchronous.
+  db.transaction((tx) => {
+    tx.insert(families).values({ id: familyId, regionCode: 'UZ' }).run();
+    tx.insert(caregivers).values({ id: caregiverId, familyId, isMe: true, role: 'parent' }).run();
+    tx.insert(babies).values({ id: babyId, familyId, name: null, birthDate: toLocalYmd(birth), mode: 'baby' }).run();
   });
 }
 
