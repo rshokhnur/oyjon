@@ -2,6 +2,8 @@
 
 Work one milestone at a time and stop at the end of each for Shokhnur's review. Each milestone is done when its checklist is done and `npm test` + `npx tsc --noEmit` pass.
 
+> **Design first (from Oct 12, 2026):** M2 and later wait until the design phase in [`../design/plan.md`](../design/plan.md) is done.
+
 ## M0 Repo setup ✓
 Monorepo, brief, specs, placeholder Expo app, CI typecheck.
 

@@ -2,6 +2,8 @@
 
 Shokhnur's space for the UI. The app ships with placeholder tokens and unstyled primitives until these designs land.
 
+- **Start here:** [`plan.md`](plan.md), the design phase step by step. Step 1: [`01-brainstorm.md`](01-brainstorm.md)
+
 - Screens, flows and design order: [`../docs/spec/screens-and-flows.md`](../docs/spec/screens-and-flows.md)
 - Companion (Oyim): [`../docs/spec/companion.md`](../docs/spec/companion.md)
 - [`screens/`](screens/): per-screen notes and Figma frame links
