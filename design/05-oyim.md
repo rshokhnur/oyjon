@@ -1,6 +1,6 @@
 # Step 5: Oyim
 
-**Final (2026-10-12): Moonstone with Grok-style pill eyes**, Figma node 47:2, made on Shokhnur's Mac. The animation and code handoff is in `design/oyim-animation-handoff.md` on the Mac (not in the repo yet). Skia vs Rive is still open.
+**Final (2026-10-12): Moonstone with Grok-style pill eyes**, Figma node 47:2, made on Shokhnur's Mac. The animation and code handoff is in `design/oyim-animation-handoff.md` on the Mac (not in the repo yet). Animation: Skia + Reanimated (decided 2026-10-12).
 
 ## First sketch
 

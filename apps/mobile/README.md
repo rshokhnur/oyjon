@@ -3,7 +3,7 @@
 Expo (SDK 57) + React Native + TypeScript. Engineering brief: [`CLAUDE.md`](CLAUDE.md).
 
 ## Run it on a dev build
-The app uses native modules (expo-sqlite, later Rive), so it runs on a **dev build**, not Expo Go. You build the dev app once, install it, and from then on code changes reload instantly.
+The app uses native modules (expo-sqlite, later Skia), so it runs on a **dev build**, not Expo Go. You build the dev app once, install it, and from then on code changes reload instantly.
 
 ```bash
 cd apps/mobile

@@ -294,7 +294,7 @@ Respect the system "Reduce Motion" setting: replace the motion with simple fades
 6. **T6 Voice log**
 7. **D2–D3 Patterns and growth**, **M3–M5 Journey and milestones**
 8. **P1–P3 Pregnancy**, **S4 Loss mode**
-9. **Companion (Oyim) Rive rig:** sketch her alongside steps 1–3 so her states match the moon system
+9. **Companion (Oyim) Skia rig:** sketch her alongside steps 1–3 so her states match the moon system
 10. **S5 Plus**, **S1–S3, S6 Settings, family and export**
 
 **Design system first (½ day):** colour tokens (day and indigo night), type scale with Uzbek and Cyrillic glyph checks (long Uzbek words like "ovqatlantirish" (feeding) must not break layouts), moon icon set (8 phases), caregiver colours, spring presets (tight, soft, slow).

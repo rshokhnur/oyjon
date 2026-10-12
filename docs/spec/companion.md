@@ -101,15 +101,12 @@ The name is separate from the app (Oyjon is the app; Oyim is the friend inside i
 - **Headspace:** soft round characters, calm motion, health-adjacent without preaching. https://www.headspace.com/
 - **Finch:** a gentle pet that grows with you and never punishes. https://apps.apple.com/us/app/finch-self-care-pet/id1528595748
 - **Airbnb / Linear restraint:** delight at key moments only; content first.
-- **Rive state machines** (as Duolingo uses them): https://rive.app/blog/how-duolingo-uses-rive-for-their-character-animation
 
-## 9. Rive vs Lottie
-| | **Rive** (recommended) | Lottie |
-|---|---|---|
-| Interactivity | One file, a state machine with inputs (mood, phase, gaze, sleepy) | A separate file or segment per animation; little live control |
-| Moon phase driven by data | Yes, by setting the phase number from logs | Hard to do |
-| Size | Small binary .riv | JSON, one per state |
-| Expo | `rive-react-native` (needs a dev build, not Expo Go) | `lottie-react-native` (Expo-ready) |
-| Tooling | Rive editor | After Effects + Bodymovin / LottieFiles |
+## 9. Animation: Skia + Reanimated (decided 2026-10-12)
+Oyim is drawn in code with `@shopify/react-native-skia` and animated with `react-native-reanimated`. Rive and Lottie were considered and dropped.
 
-**Recommendation:** use **Rive** for Oyim. A rig with "a few clear, easy states" maps directly onto a Rive state machine. Use Lottie or Reanimated for one-off effects. Fallback: static SVG states when Reduce Motion is on or if Rive fails to load.
+- **Why:** the final Moonstone look is simple shapes, gradients and pill eyes, so code can draw it at any size. Phase, gaze, blink, mood and sleepy are plain values driven from app state on the UI thread, with no separate editor file to keep in sync.
+- **Build:** one `<Oyim />` component with props for state (idle, saved, thinking, sleepy, proud, hidden), phase (0–1) and size. Shared values drive the motion; springs come from the motion presets.
+- **Fallback:** static frames when Reduce Motion is on.
+- **Needs:** a dev build (Skia is a native module). Ask before installing.
+- Look and motion handoff: `design/oyim-animation-handoff.md` (on Shokhnur's Mac for now).

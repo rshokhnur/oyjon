@@ -43,7 +43,7 @@ Recording, STT via the UzbekVoice proxy, parser chips.
 Entitlements, RevenueCat, activation codes, paywall sheet; limits enforced on the server.
 
 ## M9 Oyim
-Rive integration with the state machine, `useCompanion` rules.
+Oyim in Skia + Reanimated (phase, gaze, blink, mood driven by app state), `useCompanion` rules.
 
 ## M10 Release
 Privacy and consent, export/delete, store assets, EAS builds, beta with 15–20 moms.
