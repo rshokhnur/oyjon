@@ -7,7 +7,7 @@ cd apps/mobile
 npm install
 npm start
 ```
-From Milestone 1 the app runs on an Expo dev build instead of Expo Go; this page gets the build steps then.
+From Milestone 1 the app runs on an Expo dev build instead of Expo Go. Dev build steps for iOS and Android are in [`apps/mobile/README.md`](../apps/mobile/README.md).
 
 ## Working with Claude Code
 1. Install Claude Code: `npm install -g @anthropic-ai/claude-code`.
