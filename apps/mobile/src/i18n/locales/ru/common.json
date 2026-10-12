@@ -61,7 +61,8 @@
     "loggedBy": "Записал(а): {{name}}",
     "timeline": "Сегодня",
     "running": "Идёт",
-    "stop": "Стоп"
+    "stop": "Стоп",
+    "editHint": "Откроет запись, чтобы изменить или удалить."
   },
   "log": {
     "title": "Новая запись",
@@ -93,7 +94,9 @@
     "inFuture": "Время не может быть в будущем.",
     "breastSide": "{{side}} грудь",
     "bottleAmount": "Бутылочка, {{amount}} мл",
-    "sleepRange": "Сон, {{duration}}"
+    "sleepRange": "Сон, {{duration}}",
+    "invalid": "Что-то не так. Проверьте запись.",
+    "finish": "Завершить кормление"
   },
   "settings": {
     "title": "Настройки",

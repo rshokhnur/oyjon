@@ -21,6 +21,13 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "scheme": "oyjon"
+    "scheme": "oyjon",
+    "plugins": [
+      "expo-router",
+      "expo-localization"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
   }
 }

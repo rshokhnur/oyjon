@@ -53,7 +53,8 @@
     "loggedBy": "Logged by {{name}}",
     "timeline": "Today",
     "running": "Running",
-    "stop": "Stop"
+    "stop": "Stop",
+    "editHint": "Opens the entry to edit or delete it."
   },
   "log": {
     "title": "New entry",
@@ -85,7 +86,9 @@
     "inFuture": "The time can't be in the future.",
     "breastSide": "{{side}} breast",
     "bottleAmount": "Bottle, {{amount}} ml",
-    "sleepRange": "Sleep, {{duration}}"
+    "sleepRange": "Sleep, {{duration}}",
+    "invalid": "Something's off. Check the entry.",
+    "finish": "Finish feed"
   },
   "settings": {
     "title": "Settings",

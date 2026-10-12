@@ -53,7 +53,8 @@
     "loggedBy": "{{name}} ёзди",
     "timeline": "Бугун",
     "running": "Давом этмоқда",
-    "stop": "Тўхтатиш"
+    "stop": "Тўхтатиш",
+    "editHint": "Ёзувни таҳрирлаш ёки ўчириш учун очади."
   },
   "log": {
     "title": "Янги ёзув",
@@ -85,7 +86,9 @@
     "inFuture": "Вақт келажакда бўлиши мумкин эмас.",
     "breastSide": "{{side}} кўкрак",
     "bottleAmount": "Шиша, {{amount}} мл",
-    "sleepRange": "Уйқу, {{duration}}"
+    "sleepRange": "Уйқу, {{duration}}",
+    "invalid": "Нимадир нотўғри. Ёзувни текширинг.",
+    "finish": "Овқатни тугатиш"
   },
   "settings": {
     "title": "Созламалар",

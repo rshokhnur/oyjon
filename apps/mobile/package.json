@@ -1,7 +1,7 @@
 {
   "name": "@oyjon/mobile",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "expo-router/entry",
   "dependencies": {
     "drizzle-orm": "^0.45.4",
     "expo": "~57.0.27",
@@ -40,7 +40,11 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "test": "jest",
+    "typecheck": "tsc --noEmit",
+    "db:generate": "drizzle-kit generate",
+    "i18n:cyrl": "node scripts/translit-uz.ts"
   },
   "private": true
 }

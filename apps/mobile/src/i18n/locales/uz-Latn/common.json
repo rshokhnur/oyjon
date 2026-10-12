@@ -53,7 +53,8 @@
     "loggedBy": "{{name}} yozdi",
     "timeline": "Bugun",
     "running": "Davom etmoqda",
-    "stop": "To‘xtatish"
+    "stop": "To‘xtatish",
+    "editHint": "Yozuvni tahrirlash yoki o‘chirish uchun ochadi."
   },
   "log": {
     "title": "Yangi yozuv",
@@ -85,7 +86,9 @@
     "inFuture": "Vaqt kelajakda bo‘lishi mumkin emas.",
     "breastSide": "{{side}} ko‘krak",
     "bottleAmount": "Shisha, {{amount}} ml",
-    "sleepRange": "Uyqu, {{duration}}"
+    "sleepRange": "Uyqu, {{duration}}",
+    "invalid": "Nimadir noto‘g‘ri. Yozuvni tekshiring.",
+    "finish": "Ovqatni tugatish"
   },
   "settings": {
     "title": "Sozlamalar",
