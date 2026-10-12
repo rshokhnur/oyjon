@@ -1,8 +1,8 @@
-# Oyjon: v1 screens and flows
+# Screens and flows (v1)
 
-Scope comes from `baby-app-name-and-v1.md`, `baby-app-research.md` and `baby-app-uzbek-ai.md`. The app is native Expo for iOS and Android. Languages: Uzbek Latin (default), Uzbek Cyrillic, Russian, English.
+Scope comes from [`product.md`](product.md); safety behaviour from [`safety.md`](safety.md). The app is native Expo for iOS and Android. Languages: Uzbek Latin (default), Uzbek Cyrillic, Russian, English.
 
-Backup name "Beshik": only *Beshikjon* was checked. Check plain "Beshik" in the stores and domain registries before relying on it.
+Where a screen says **103**, that's the Uzbekistan number; the app always uses `region.emergencyNumber`.
 
 **Design principles**
 - **One thumb at 3am.** Log tiles sit low, with a 56pt+ hit area.
@@ -15,7 +15,7 @@ Backup name "Beshik": only *Beshikjon* was checked. Check plain "Beshik" in the 
 
 ---
 
-**Companion:** the Oyim moon character (Grok Bot-style avatar, made softer and warmer) is defined in `oyjon-companion.md`. She is hidden on A3 (103) and S4 (loss mode).
+**Companion:** the Oyim moon character (Grok Bot-style avatar, made softer and warmer) is defined in [`companion.md`](companion.md). She is hidden on A3 (103) and S4 (loss mode).
 
 ---
 
@@ -282,7 +282,7 @@ Respect the system "Reduce Motion" setting: replace the motion with simple fades
 
 ---
 
-**Companion moments:** onboarding guide, a nod on save, the month's moon (she *is* the moon), empty-state peeks, listening and thinking states in Ask (then she shrinks so sources lead), a sleepy crescent at night. Rules and caps: `oyjon-companion.md` §6.
+**Companion moments:** onboarding guide, a nod on save, the month's moon (she *is* the moon), empty-state peeks, listening and thinking states in Ask (then she shrinks so sources lead), a sleepy crescent at night. Rules and caps: [`companion.md`](companion.md) §6.
 
 ## 5. Suggested design order
 

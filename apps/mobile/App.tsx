@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
-// Placeholder entry. Milestone 1 (see CLAUDE.md) replaces this with expo-router under app/ and code under src/.
+// Placeholder entry. Milestone 1 (see CLAUDE.md) replaces this with expo-router routes in src/app/.
 export default function App() {
   return (
     <View style={styles.container}>

@@ -1,9 +1,9 @@
 # Design
 
-Shokhnur's space for the UI design. The app ships with placeholder tokens and unstyled primitives until these designs land.
+Shokhnur's space for the UI. The app ships with placeholder tokens and unstyled primitives until these designs land.
 
-- Screen inventory, flows and design order: [`../docs/oyjon-screens-and-flows.md`](../docs/oyjon-screens-and-flows.md)
-- Companion (Oyim): [`../docs/oyjon-companion.md`](../docs/oyjon-companion.md)
+- Screens, flows and design order: [`../docs/spec/screens-and-flows.md`](../docs/spec/screens-and-flows.md)
+- Companion (Oyim): [`../docs/spec/companion.md`](../docs/spec/companion.md)
 - [`screens/`](screens/): per-screen notes and Figma frame links
 - [`assets/`](assets/): exported logos, icons, illustrations, Rive files
 

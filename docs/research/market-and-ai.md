@@ -1,4 +1,8 @@
-# First Moons: Uzbek-first AI baby app research
+# Market and AI research
+
+> Research snapshot from Oct 12, 2026, written when the working name was "First Moons". It is background, not spec. Where it disagrees with `CLAUDE.md` or `docs/spec/`, those win. In particular, two calls here were made differently:
+> - **Telegram Mini App first** was recommended below. We're building the **native Expo app first** (see `docs/decisions.md`). A Mini App on the same backend stays an option for later.
+> - The "Oy" pass naming and prices are superseded by **Oyjon Plus** in `docs/spec/product.md`.
 
 Researched Oct 12, 2026 (Tashkent time). Store data comes from the iTunes Search/Lookup API (UZ and US stores) and Google Play pages. Some figures come from third-party trackers, which are noted where used.
 
