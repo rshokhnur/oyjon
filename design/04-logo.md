@@ -1,18 +1,20 @@
-# Step 5: logo explorations
+# Step 5: logo
 
-Board: [Logo explorations](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=31-2) on the 05 Brand page. Each idea is shown on paper, on night indigo, and as an app icon at 180 and 60 px.
+Board: [Logo · round 2](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=34-2) on the 05 Brand page.
 
-Drawn in the chosen colours (A2 Saffron and indigo) with Source Serif 4 Medium. These are rough starting shapes from the brainstorm's logo ideas, not final artwork.
+## Round 1 (dropped)
+Five rough ideas (two moons in the letters, moon over the j, crescent cradle, full moon o, phase strip). Shokhnur liked none of them, so the board was removed.
 
-| # | Idea | What it is |
-|---|---|---|
-| 1 | Two moons | First o is a crescent, the second is full: a month passing |
-| 2 | Moon over the j | The j's dot is a small saffron full moon |
-| 3 | Crescent cradle | An upturned crescent holding a dot (the baby), next to a plain wordmark |
-| 4 | Full moon o | The first o is a solid saffron disc |
-| 5 | Phase strip | Plain wordmark, eight moon phases as a pattern underneath |
+## References
+Real logos from Mobbin, grouped by style: wordmark only (Lifesum, Hers, Calm, Bloom, Breathwrk), symbol + wordmark (Hatch, Waking Up, Ten Percent Happier, Peanut, pillowtalk), bold symbol (Moonly, Co-Star, Flo, ABY), character (Stoic, Kit). Shokhnur picked **symbol + wordmark**.
 
-**My pick: 2, Moon over the j.** The word stays readable as "oyjon", and the moon dot can glow or change phase in the app. The icon pairs well with idea 4's moon disc.
+## Round 2: symbol + wordmark
+Each option is shown on paper, on night indigo, as the launch screen and as the app icon at 180, 76, 48 and 29 pt. The letters are outlined, so spacing can be tuned by hand.
 
-## Next
-Pick one or two. Then they get refined (custom letter spacing, the moon's exact size and position, small-size tests) before Oyim sketches start.
+| # | Mark | Wordmark | Idea |
+|---|---|---|---|
+| 1 | Moon cradle: saffron crescent holding a small full moon | Onest SemiBold | Mother holding baby; oy (moon) holding jon (dear one) |
+| 2 | Two moons: big saffron moon, small turquoise moon tucked in | Source Serif 4 SemiBold | Mother and baby side by side |
+| 3 | Moon o: a ring thicker on one side | Source Serif 4 Medium | The o of oyjon as a crescent; the most typographic |
+
+**My pick: 1, Moon cradle.** It has the clearest story, it's still readable at 29 pt, and the rounded sans feels warmer next to a baby than a serif.
