@@ -1,5 +1,7 @@
 # Step 1: Brainstorm and direction
 
+On the FigJam board: [oyjon flow](https://www.figma.com/board/ZyESbImvUcKhpd37KaCcBN/oyjon-flow), with what we picked marked in saffron.
+
 Options to react to, not decisions. Pick, mix or throw out. Answers go at the bottom.
 
 ## 1. The feeling, in one line

@@ -1,6 +1,6 @@
 # Step 3: flows map
 
-Board: [Screens and flows](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-app?node-id=53-2) on the 03 Flows page.
+Board: [oyjon flow](https://www.figma.com/board/ZyESbImvUcKhpd37KaCcBN/oyjon-flow) in FigJam (brainstorm, screen map and the 10 flows with arrows). The older copy is on the 03 Flows page of the design file (node 53-2).
 
 Built from [`../docs/spec/screens-and-flows.md`](../docs/spec/screens-and-flows.md).
 
