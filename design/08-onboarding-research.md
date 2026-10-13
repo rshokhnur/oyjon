@@ -231,10 +231,19 @@ Every step saves on the phone, so a closed app reopens on the same step.
 
 Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it. The full list is in [`14-global-ready.md`](14-global-ready.md).
 
-- O1 picks the language from the phone and the country from the SIM. One small line shows the country, "Oʻzbekiston · oʻzgartirish", and opens the country picker (the one proposal in [design/14](14-global-ready.md)).
+- O1 picks the language from the phone and the country from the SIM, silently. Outside Uzbekistan the same screen opens in English with English first. The country shows only where it matters: the phone code on O6 and the Country row in Settings, both of which open the country picker (see [design/14](14-global-ready.md)).
 - The language list starts with the country's usual order. Uzbekistan shows Lotin, Кирилл, Русский, English.
 - O2's calendar starts the week on the country's first day, Monday in Uzbekistan. Dates use her language's format.
 - O3's age line uses her language's plural rules, so "3 oy 12 kun" and "3 месяца 12 дней" both fit.
 - O4's consent lines come from the country's legal pack. Uzbekistan uses the personal data law text the lawyer checks.
 - O5's time chips show 24-hour or 12-hour time, whichever the phone uses.
 - O6's phone code comes from her country, +998 for Uzbekistan, and opens the same picker. Where SMS doesn't reach, only Apple and Google show.
+
+## 7. Wireframe review, 13 Oct 2026
+
+Shokhnur went through the onboarding wireframes one screen at a time. Locked:
+
+- **O1** is one adaptive screen. A global version opens in the phone's language with English first. The country line is gone from O1.
+- **O4 Consent** has one main button for the required yes, the optional question review as a separate unticked box, and "Rozi emasman" always visible. Saying no keeps nothing and offers one way back.
+- **O6** is one step for sign-in and sign-up: phone, Apple or Google, or "Keyinroq". Phone goes to a number screen and a code screen. "Kirish" on O1 goes to Restore diary, then Restoring, which keeps the saved diary and adds today's entries.
+

@@ -8,7 +8,7 @@ Uzbekistan stays the default everywhere. This page adds no v1 scope. It lists wh
 
 | Setting | First value | She can change it | Stored |
 |---|---|---|---|
-| Country | The phone's SIM country, then the phone's region. Uzbekistan if neither is known | O1 (small country line) and Settings | Per family, on the phone and the server |
+| Country | The phone's SIM country, then the phone's region. Uzbekistan if neither is known | The phone code on O6 and Settings | Per family, on the phone and the server |
 | Language | The phone's language if it's one of the four, else the country's default | O1 and Settings, at once with a 10 second Undo | On the phone |
 | Time zone | The phone's time zone | Not in the app. It follows the phone | Each entry keeps its own UTC time and offset |
 
@@ -55,6 +55,6 @@ Country and language are separate on purpose. A Russian-speaking mum in Tashkent
 
 ## One keep or drop proposal
 
-1. **A country picker, used in three places.** O1 shows one small line, "Oʻzbekiston · oʻzgartirish". Tapping it opens a searchable list of countries with flags and names in her language. The same sheet opens from the phone code on O6 and from a new Country row in Settings. Changing the country changes the emergency number, cards, rules, phone code and support link. It never changes her language. Decided: keep, must. The emergency number depends on it, and a wrong SIM guess must be easy to fix.
+1. **A country picker, used in two places.** A searchable list of countries with flags and names in her language. It opens from the phone code on O6 and from a new Country row in Settings. O1 doesn't show the country: the SIM gets it right almost every time, and a line there raised more questions than it answered (Shokhnur, 13 Oct). Changing the country changes the emergency number, cards, rules, phone code and support link. It never changes her language. Decided: keep, must. The emergency number depends on it, and a wrong SIM guess must be easy to fix.
 
 Nothing else here needs a new screen.
