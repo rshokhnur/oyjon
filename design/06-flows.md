@@ -1,6 +1,6 @@
 # Step 3: flows map
 
-Board: [oyjon flow](https://www.figma.com/board/ZyESbImvUcKhpd37KaCcBN/oyjon-flow) in FigJam (brainstorm, screen map and the 10 flows with arrows). The older copy is on the 03 Flows page of the design file (node 53-2).
+Board: [oyjon flow](https://www.figma.com/board/ZyESbImvUcKhpd37KaCcBN/oyjon-flow) in FigJam (brainstorm, screen map and the 10 flows with arrows). The 03 Flows page of the design file is a small showcase of the six v1 flows, rebuilt from the board on 13 Oct 2026. Research and decisions stay on the board.
 
 Built from [`../docs/spec/screens-and-flows.md`](../docs/spec/screens-and-flows.md).
 
