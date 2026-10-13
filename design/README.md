@@ -22,3 +22,14 @@ Main file: [oyjon app](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon
 - [`oyim/animation-handoff.md`](oyim/animation-handoff.md): handoff for building Oyim's animation in code
 - [`colour.md`](colour.md): the final brand palette in OKLCH and hex
 - [`references.md`](references.md): third-party references kept off the repo
+
+## Flow research (v1)
+
+Mobbin research, decisions and a UX review for each v1 flow. Decisions still need Shokhnur's keep or change.
+
+- [`08-onboarding-research.md`](08-onboarding-research.md)
+- [`09-quick-log-research.md`](09-quick-log-research.md)
+- [`10-ask-research.md`](10-ask-research.md)
+- [`11-diary-research.md`](11-diary-research.md)
+- [`12-moon-keepsake-research.md`](12-moon-keepsake-research.md)
+- [`13-settings-research.md`](13-settings-research.md)
