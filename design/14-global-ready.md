@@ -25,8 +25,7 @@ Country and language are separate on purpose. A Russian-speaking mum in Tashkent
 | Words the red-flag check reads | Every script the country's people type | Uzbek Latin, Uzbek Cyrillic, Russian, with common misspellings | Adds the pack's languages | Ask |
 | App language | Language setting | Oʻzbekcha (lotin) | Ўзбекча (кирилл), Русский, English in v1. More later through the same files | All |
 | Order of the language list | Country | Lotin, Кирилл, Русский, English | KZ and KG start with Русский, others with English | Onboarding, Settings |
-| Phone sign-in country code | Country, with a picker | +998 | The country's code. Apple and Google sign-in work everywhere | Onboarding, Settings |
-| SMS sign-in | Country | On | Off where SMS doesn't reach. Apple and Google still work | Onboarding |
+| Sign-in methods | Country and phone platform | Apple (iPhone) or Google (Android) first, phone number second, code by Telegram with SMS fallback, +998 | Apple or Google first, then an email code under "Other ways". No phone sign-in | Onboarding, Settings |
 | Week reset for Ask's 3 questions | Her time zone, Monday 00:00 | Monday 00:00 Tashkent | Monday 00:00 where she is. The server keeps the family's time zone | Ask, Settings |
 | First day of the week (Diary strip, calendar) | Language and country (`Intl`) | Monday | Sunday in the US and some others | Onboarding, Diary |
 | Day boundary in Diary | Her time zone, local midnight | Tashkent midnight | Local midnight | Diary |

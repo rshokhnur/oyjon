@@ -245,5 +245,5 @@ Shokhnur went through the onboarding wireframes one screen at a time. Locked:
 
 - **O1** is one adaptive screen. A global version opens in the phone's language with English first. The country line is gone from O1.
 - **O4 Consent** has one main button for the required yes, the optional question review as a separate unticked box, and "Rozi emasman" always visible. Saying no keeps nothing and offers one way back.
-- **O6** is one step for sign-in and sign-up: phone, Apple or Google, or "Keyinroq". Phone goes to a number screen and a code screen. "Kirish" on O1 goes to Restore diary, then Restoring, which keeps the saved diary and adds today's entries.
+- **O6** is one step for sign-in and sign-up. Locked sign-in picks (13 Oct, from the sign-in methods research): Apple on iPhone or Google on Android comes first everywhere. In Uzbekistan only, phone number is the second button, with the code sent by Telegram first and SMS as fallback. Outside Uzbekistan there is no phone sign-in, just a small "Other ways" link to an email code. "Keyinroq" (later) always stays. Phone goes to a number screen and a code screen. "Kirish" on O1 goes to Restore diary, then Restoring, which keeps the saved diary and adds today's entries.
 
