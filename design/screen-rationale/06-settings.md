@@ -53,8 +53,9 @@ Settings holds the few things she might change, plus the things the law and her 
 
 | Element | Why it's here |
 |---|---|
-| "Kundalik hali zaxiralanmagan" | Says plainly that a lost phone means a lost diary. |
-| "Zaxiralash" | Goes to the sign-in step from onboarding. |
+| Not backed up: no page | The Hisob row says "Zaxira yoʻq" and opens sign-in straight away. One tap less, and nothing to read. |
+| Signed in: "Kundalik zaxiralangan" | Says the diary is safe, with the masked number and the last save time. |
+| Chiqish | For a shared phone. Waiting entries are sent first. |
 
 ## S6 Privacy and data
 

@@ -58,10 +58,9 @@ None of the baby trackers turn a month into something to send. That gap is the m
 | 9:16 card | Story size, the shape Telegram and Instagram stories use. |
 | Moon, "4 oylik", name, dates, her sentence | A memory, not a report. No weights or feed counts. |
 | Small "oyjon" at the bottom | Quiet credit. It's how relatives find the app. |
-| Two dots for a second style | See the drop proposal below. |
 | "Ism va sanalarni yashirish" | For a public Instagram. Hiding the dates also hides the birth date. |
 | Saqlash, Ulashish | Save to the gallery, or share through the phone's sheet, where Telegram already is. |
 
-## Drop proposals
+## Dropped on 13 Oct
 
-1. **A second card style (the two dots on M2).** It has no job of its own and it doubles the card design work. My pick: drop it to Later. *Raised before, still open.*
+A second card style to swipe moved to the Later page on FigJam.

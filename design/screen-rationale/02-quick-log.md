@@ -13,7 +13,7 @@ The whole flow rests on three findings from that research. One tap wins (Yazio, 
 | Moon avatar with a gear mark | The baby is the point of the app, so she sits top left. The gear mark tells her it opens Settings, which a plain photo doesn't. |
 | Name and age, "3 oy 12 kun" | The first thing a mum or grandmother checks, and what the nurse asks. |
 | Date, top right | At 3am she can't tell if "today" means before or after midnight. |
-| Today's last 2 entries | Confirms the last log saved and shows what happened most recently. Only 2: the full day lives in Diary. |
+| Today's last 2 entries, right above the tiles | Confirms the last log saved. Only 2, because the full day lives in Diary. It sits low so everything she uses is in thumb reach. The empty top is where Oyim's one daily line goes. |
 | "Kundalik ›" link | One tap to the full day for anyone who wants more than 2. |
 | Three tiles, Ovqat, Uyqu, Taglik | The three things she logs 8 to 12 times a day. Bottom third, so one thumb reaches them while holding the baby. |
 | Time since on each tile, large | Answers "when did she last eat?" before she asks. Large because she reads it half awake. |
@@ -21,7 +21,7 @@ The whole flow rests on three findings from that research. One tap wins (Yazio, 
 | Centre moon + | A way to log from any tab, not just Today. |
 | Tab bar | Bugun, Kundalik, Oy, Soʻrang. Four places, nothing hidden in a menu. |
 
-Changed today: the list went from 5 entries to 2 and the tile numbers got bigger. The list repeated Diary and pushed the important numbers aside.
+Changed on 13 Oct: the list went from 5 entries to 2 and moved down above the tiles, and the tile numbers got bigger.
 
 ## T2 Log sheet (centre +)
 
@@ -49,11 +49,11 @@ Changed today: the list went from 5 entries to 2 and the tile numbers got bigger
 
 ## T3 Feed, bottle
 
-**Based on:** Me+ (presets above a number pad), MacroFactor (big buttons, effect shown live).
+**Based on:** Me+ (presets above a number pad).
 
 | Element | Why it's here |
 |---|---|
-| Big amount with − and + | Adjusts by small steps without a keyboard. |
+| Big amount, tap for a keypad | Shows the amount she's saving. Tapping it opens a number pad for odd amounts. The − and + buttons were dropped on 13 Oct, since the chips and keypad cover it. |
 | Chips 30, 60, 90, 120 | The amounts she pours most. Most bottles take one tap. |
 | "Qachon: Hozir" | Defaults to now. She changes it only when logging late. |
 | Saqlash | Bottle has no timer, so it needs a save. |

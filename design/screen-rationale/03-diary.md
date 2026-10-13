@@ -14,10 +14,8 @@ Diary answers the questions people ask about the past: the nurse's "how many fee
 | Month and "Bugun" | Jump months for an older day, and come back to today in one tap. |
 | Week strip, Monday first | Pick a day this week without scrolling. The first weekday follows her country. |
 | Totals: icon, number, word | What the nurse asks. Big enough to read out at the clinic. |
-| Filter chips | Find "the last bottle" or "the last dirty one" fast. |
 | Entries, newest first | The day in order. Tap one to fix it in T7. |
 | "Oraliq 4 soat 5 daq" under feeds | Time between feeds, which doctors ask about for newborns. |
-| Caregiver dot | Shows who logged it once a family shares a diary. Grey now, colour later. |
 
 ## D1 Day, empty
 
@@ -39,7 +37,6 @@ Diary answers the questions people ask about the past: the nurse's "how many fee
 | Sleep bars and feed dots only | Three kinds of mark were unreadable on a 360 px phone. |
 | Shaded nights | Night and day sleep separate at a glance. |
 | Diaper count under each day | Diapers as a number, because the chart has no room for them. |
-| One line against last week | A gentle trend, with no score and no goal. |
 
 ## D3 Growth
 
@@ -75,6 +72,6 @@ Diary answers the questions people ask about the past: the nurse's "how many fee
 | Bosh aylanasi, optional | Measured less often. |
 | Saqlash | Odd values, like 32 kg for 3,2, ask once before saving. |
 
-## Drop proposals
+## Dropped on 13 Oct
 
-1. **The caregiver dot on D1 entries.** v1 has one mum and no family sharing, so every dot would be the same grey. My pick: drop it from v1 and bring it back with family sharing.
+Moved to the Later page on FigJam: the caregiver dot on entries (back with family sharing), the filter chips on the day view, and the line comparing the week with the last one on D2.
