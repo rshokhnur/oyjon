@@ -51,7 +51,7 @@ None of the baby trackers turn a month into something to send. That gap is the m
 
 ## M2 Keepsake card
 
-**Based on:** Retro (big card, Save and Share under it, "Saved" toast), Duolingo (swipe between card designs), Instagram Close Friends (where the card ends up).
+**Based on:** Retro (big card, Save and Share under it, "Saved" toast), Instagram Close Friends (where the card ends up).
 
 | Element | Why it's here |
 |---|---|

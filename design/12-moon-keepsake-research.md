@@ -186,7 +186,7 @@ Picked by Claude on 13 Oct 2026 and decided on 13 Oct 2026. Shokhnur can still c
 7. Save plus the phone's share sheet, no separate Telegram button. Decided: yes.
 8. A toggle to hide the baby's name on the card. Decided: keep as should.
 9. A row of past moons on M1 to reopen old cards. Decided: keep as should, with M3 staying on Later.
-10. Two card styles to swipe. Decided: keep as should.
+10. Two card styles to swipe. Decided: later (changed on 13 Oct after the screen rationale review).
 
 To do before the final screens:
 

@@ -241,3 +241,5 @@ Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it
 - Weight, length and head are stored in kg and cm. v1 shows metric everywhere. lb and in come later through the country's unit setting.
 - Numbers use her language's format, so "3,2 kg" in Uzbek and Russian, "3.2 kg" in English.
 - WHO curves are the same in every country. The gentle growth note rule comes from the country's doctor.
+
+Changed on 13 Oct after the screen rationale review: the filter chips, the week-on-week line on D2 and the caregiver dot moved to Later.
