@@ -199,18 +199,18 @@ This skips the T2 Log sheet. The moon + can open the same three choices as a sec
 
 ## 4. Decisions
 
-All picked by me on 12 Oct 2026 so the work could keep going. Each is open for the user to keep or change.
+Picked by Claude on 12 Oct 2026 and decided on 13 Oct 2026. Shokhnur can still change any of them.
 
-1. Tiles on Today open Feed, Sleep and Diaper directly, and T2 Log sheet moves to Later. My pick: yes.
-2. Diaper saves on one tap with no Save button. My pick: yes.
-3. Undo toast instead of an "are you sure" step. My pick: yes.
-4. Running timers show as a bar on Today in v1, Lock Screen timers later. My pick: yes.
-5. Pumping and solids go to Later. My pick: later.
-6. Notes on a log go to Later. My pick: later.
-7. Oyim adds one line after a log only when she has a reason. My pick: keep as should.
-8. A night logging mode from 21:00 to 06:00. My pick: keep as should.
-9. "Tell Oyim" text logging goes to Later. My pick: later.
-10. Feed reminders and a next nap guess go to Later. My pick: later.
+1. Tiles on Today open Feed, Sleep and Diaper directly, and T2 Log sheet moves to Later. Decided: yes.
+2. Diaper saves on one tap with no Save button. Decided: yes.
+3. Undo toast instead of an "are you sure" step. Decided: yes.
+4. Running timers show as a bar on Today in v1, Lock Screen timers later. Decided: yes.
+5. Pumping and solids go to Later. Decided: later.
+6. Notes on a log go to Later. Decided: later.
+7. Oyim adds one line after a log only when she has a reason. Decided: keep as should.
+8. A night logging mode from 21:00 to 06:00. Decided: keep as should.
+9. "Tell Oyim" text logging goes to Later. Decided: later.
+10. Feed reminders and a next nap guess go to Later. Decided: later.
 
 To do before the final screens:
 
@@ -250,7 +250,17 @@ Two taps for a diaper, three for a finished feed. The red-flag check never block
 | 11 | should | Oyim talking too much | First log of the day only, never 21:00 to 06:00 |
 | 12 | should | Pale stool is a warning sign the doctor may want in the rules | Optional stool colour after Dirty (question 2) |
 
-### Keep or drop
+### Keep or drop, decided 13 Oct 2026
 
-1. Keep the centre moon + as a small sheet with the same three tiles, so she can log from any tab. My pick: keep, must. This changes my earlier pick that sent T2 to Later.
-2. An optional row of stool colours after "Dirty", with pale ones going to the red-flag check. My pick: keep as should, once the doctor approves the colour chart.
+1. Keep the centre moon + as a small sheet with the same three tiles, so she can log from any tab. Decided: keep, must. This changes my earlier pick that sent T2 to Later.
+2. An optional row of stool colours after "Dirty", with pale ones going to the red-flag check. Decided: keep as should, once the doctor approves the colour chart.
+
+## 6. Global-ready
+
+Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it. The full list is in [`14-global-ready.md`](14-global-ready.md).
+
+- Bottle amounts are stored in ml. v1 shows ml chips (30, 60, 90, 120) everywhere. fl oz chips come later through the country's unit setting, and the "over 250 ml" check stays in ml underneath.
+- "Earlier?" chips and the timer bar use 24-hour or 12-hour time, whichever the phone uses. Each entry keeps its UTC time and the hour it happened.
+- Night logging follows the phone's clock, 21:00 to 06:00 wherever she is.
+- Red-flag rules come from her country's rule pack, and A3 calls her country's number. Uzbekistan is 103.
+- Every label is a translation key. Tiles are sized for "Ovqatlantirish" and the Cyrillic and Russian words, which run longer.

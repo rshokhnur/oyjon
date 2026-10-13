@@ -223,6 +223,18 @@ Every step saves on the phone, so a closed app reopens on the same step.
 | 11 | should | Night opening | 21:00 to 06:00 uses the night palette, a sleepy Oyim and no sound |
 | 12 | should | Copy that assumes "mum" leaves out dads and grandmothers | Copy talks about the baby and says "siz". Consent stays three short lines |
 
-### Keep or drop
+### Keep or drop, decided 13 Oct 2026
 
-1. An "I already use oyjon" link on O1 that signs in and restores the diary. It reuses O6, so there's no new screen. My pick: keep, must.
+1. An "I already use oyjon" link on O1 that signs in and restores the diary. It reuses O6, so there's no new screen. Decided: keep, must.
+
+## 6. Global-ready
+
+Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it. The full list is in [`14-global-ready.md`](14-global-ready.md).
+
+- O1 picks the language from the phone and the country from the SIM. One small line shows the country, "Oʻzbekiston · oʻzgartirish", and opens the country picker (the one proposal in [design/14](14-global-ready.md)).
+- The language list starts with the country's usual order. Uzbekistan shows Lotin, Кирилл, Русский, English.
+- O2's calendar starts the week on the country's first day, Monday in Uzbekistan. Dates use her language's format.
+- O3's age line uses her language's plural rules, so "3 oy 12 kun" and "3 месяца 12 дней" both fit.
+- O4's consent lines come from the country's legal pack. Uzbekistan uses the personal data law text the lawyer checks.
+- O5's time chips show 24-hour or 12-hour time, whichever the phone uses.
+- O6's phone code comes from her country, +998 for Uzbekistan, and opens the same picker. Where SMS doesn't reach, only Apple and Google show.

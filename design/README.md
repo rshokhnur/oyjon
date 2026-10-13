@@ -25,7 +25,7 @@ Main file: [oyjon app](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon
 
 ## Flow research (v1)
 
-Mobbin research, decisions and a UX review for each v1 flow. Decisions still need Shokhnur's keep or change.
+Mobbin research, decisions, a UX review and a global-ready note for each v1 flow. All decisions were settled on 13 Oct 2026. Shokhnur can still change any of them.
 
 - [`08-onboarding-research.md`](08-onboarding-research.md)
 - [`09-quick-log-research.md`](09-quick-log-research.md)
@@ -33,3 +33,4 @@ Mobbin research, decisions and a UX review for each v1 flow. Decisions still nee
 - [`11-diary-research.md`](11-diary-research.md)
 - [`12-moon-keepsake-research.md`](12-moon-keepsake-research.md)
 - [`13-settings-research.md`](13-settings-research.md)
+- [`14-global-ready.md`](14-global-ready.md): every setting that comes from her country or language

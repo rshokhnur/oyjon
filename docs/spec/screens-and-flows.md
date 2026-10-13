@@ -50,7 +50,7 @@ Where a screen says **103**, that's the Uzbekistan number; the app always uses `
 | # | Screen | Purpose and key content | States |
 |---|---|---|---|
 | O1 ★★ | **Welcome / language** | Oyjon logo with the moon motion. Oyim says hello (companion §5). 4 language pills: O'zbek (Lotin), Ўзбек (Кирил), Русский, English. | — |
-| O2 | **Sign in** | Phone number OTP (+998 pre-filled), Apple or Google sign-in | L: sending code · Er: wrong code, resend in 60s · Off: "Internet kerak" (internet needed) |
+| O2 | **Sign in** | Phone number OTP (country code from her country, +998 for Uzbekistan), Apple or Google sign-in | L: sending code · Er: wrong code, resend in 60s · Off: "Internet kerak" (internet needed) |
 | O3 ★★ | **Baby or pregnancy** | Two big cards: "Chaqalog'im bor" (I have a baby) and "Homiladorman" (I'm pregnant). A link: "I was invited" | — |
 | O4a | **Baby profile** | Name, birth date, sex (optional), photo, birth weight and length (optional) | Er: date in the future |
 | O4b | **Pregnancy profile** | Due date or last period date, a gentle note on what the dates are used for | — |

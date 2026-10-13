@@ -181,18 +181,18 @@ Every step is one tap from the Diary tab.
 
 ## 4. Decisions
 
-All picked by me on 13 Oct 2026 so the work could keep going. Each is open for the user to keep or change.
+Picked by Claude on 13 Oct 2026 and decided on 13 Oct 2026. Shokhnur can still change any of them.
 
-1. Diary has three tabs at the top: Day, 7 days, Growth. My pick: yes.
-2. D1 shows the day's totals first, then entries newest first. My pick: yes.
-3. A day runs midnight to midnight. A sleep that crosses midnight shows on both days. My pick: yes.
-4. D2 is one 24-hour chart for all seven days, not a chart per type. My pick: yes.
-5. No scores, goals or "normal" ranges on D2 in v1. My pick: yes, ranges later.
-6. D3 uses WHO curves worked out on the phone, and asks the baby's sex the first time. My pick: yes.
-7. Units are kg, cm and ml only. My pick: yes.
-8. Time between feeds on D1. My pick: keep as should.
-9. A gentle note when weight drops across two lines. My pick: keep as should, once a doctor sets the rule.
-10. A doctor report PDF. My pick: later.
+1. Diary has three tabs at the top: Day, 7 days, Growth. Decided: yes.
+2. D1 shows the day's totals first, then entries newest first. Decided: yes.
+3. A day runs midnight to midnight. A sleep that crosses midnight shows on both days. Decided: yes.
+4. D2 is one 24-hour chart for all seven days, not a chart per type. Decided: yes.
+5. No scores, goals or "normal" ranges on D2 in v1. Decided: yes, ranges later.
+6. D3 uses WHO curves worked out on the phone, and asks the baby's sex the first time. Decided: yes.
+7. Everything is stored in kg, cm and ml, and v1 shows only these. The display unit comes from her country, so lb and oz can come later. Decided: yes.
+8. Time between feeds on D1. Decided: keep as should.
+9. A gentle note when weight drops across two lines. Decided: keep as should, once a doctor sets the rule.
+10. A doctor report PDF. Decided: later.
 
 To do before the final screens:
 
@@ -228,6 +228,16 @@ Done on 13 Oct 2026. I used the Diary on day one, at month six, at the clinic wi
 | 10 | should | WHO charts read wrong for babies born early | One line asking her to check with her doctor. Corrected age is question 1 |
 | 11 | should | Travel shifts entry times | Each entry keeps the hour it happened |
 
-### Keep or drop
+### Keep or drop, decided 13 Oct 2026
 
-1. Corrected age for babies born early, used on D3 and the moon. It needs one more onboarding field. My pick: later. Added to the Later page as a proposal.
+1. Corrected age for babies born early, used on D3 and the moon. It needs one more onboarding field. Decided: later. Added to the Later page as a proposal.
+
+## 6. Global-ready
+
+Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it. The full list is in [`14-global-ready.md`](14-global-ready.md).
+
+- A day runs from local midnight to local midnight where she is. Each entry keeps the hour it happened.
+- The week strip and calendar start on the country's first day of the week, Monday in Uzbekistan.
+- Weight, length and head are stored in kg and cm. v1 shows metric everywhere. lb and in come later through the country's unit setting.
+- Numbers use her language's format, so "3,2 kg" in Uzbek and Russian, "3.2 kg" in English.
+- WHO curves are the same in every country. The gentle growth note rule comes from the country's doctor.

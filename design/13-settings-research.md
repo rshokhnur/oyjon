@@ -180,18 +180,18 @@ Language is two taps from Settings, and delete takes four on purpose.
 
 ## 4. Decisions
 
-All picked by me on 13 Oct 2026 so the work could keep going. Each is open for the user to keep or change.
+Picked by Claude on 13 Oct 2026 and decided on 13 Oct 2026. Shokhnur can still change any of them.
 
-1. S1 starts with a baby card that opens the baby profile, one baby only. My pick: yes.
-2. Each language shows in its own name and script, and the app switches at once with no restart. My pick: yes.
-3. Saved keepsake cards keep the language they were made in. My pick: yes.
-4. Only two notifications in v1, "Moon is full" and "Questions are back", both off by default. My pick: yes.
-5. Export is one spreadsheet file made on the phone and shared through the share sheet. My pick: yes.
-6. Delete keeps the server copy for 7 days so she can change her mind. Phone data goes at once. My pick: yes.
-7. Delete offers "Save a copy first?" before anything else. My pick: yes.
-8. Changing the birth date warns that the moon and charts will move. My pick: yes.
-9. A night mode switch, on by default from 21:00 to 06:00. My pick: keep as should.
-10. A doctor PDF in Export. My pick: later.
+1. S1 starts with a baby card that opens the baby profile, one baby only. Decided: yes.
+2. Each language shows in its own name and script, and the app switches at once with no restart. Decided: yes.
+3. Saved keepsake cards keep the language they were made in. Decided: yes.
+4. Only two notifications in v1, "Moon is full" and "Questions are back", both off by default. Decided: yes.
+5. Export is one spreadsheet file made on the phone and shared through the share sheet. Decided: yes.
+6. Delete keeps the server copy for 7 days so she can change her mind. Phone data goes at once. Decided: yes.
+7. Delete offers "Save a copy first?" before anything else. Decided: yes.
+8. Changing the birth date warns that the moon and charts will move. Decided: yes.
+9. A night mode switch, on by default from 21:00 to 06:00. Decided: keep as should.
+10. A doctor PDF in Export. Decided: later.
 
 To do before the final screens:
 
@@ -213,7 +213,7 @@ One baby, no family, no Plus row in v1. Language is two taps from Settings. Dele
 5. Notifications. Both off. If the phone blocks them, the row says so and opens the phone's settings.
 6. Account. "Not backed up yet" goes to O6. Sign out sends waiting entries first, then clears this phone.
 7. S6 Privacy and data. Export makes one spreadsheet in her language. Delete offers a copy, asks why, confirms once. Phone data goes now, the server copy after 7 days, and an offline request goes when she's back online. Switching off health consent leads into Delete.
-8. Help and about, with a "Call 103" row on top (question 1).
+8. Help and about, with a "Call 103" row on top, using her country's number (question 1).
 
 ### Issues and fixes
 
@@ -229,7 +229,18 @@ One baby, no family, no Plus row in v1. Language is two taps from Settings. Dele
 | 8 | should | Night mode | On by default 21:00 to 06:00, switch here |
 | 9 | should | Turning off the question log leaves old questions on the review list | Past questions are removed too, and one line says so |
 
-### Keep or drop
+### Keep or drop, decided 13 Oct 2026
 
-1. A "Call 103" row at the top of Help that opens A3. Right now A3 only opens from a red flag. My pick: keep, must.
-2. An "Oyim's words" switch to turn her text off and keep the motion. The companion rules promise it. My pick: keep as should.
+1. A "Call 103" row at the top of Help that opens A3. The number comes from her country. Right now A3 only opens from a red flag. Decided: keep, must.
+2. An "Oyim's words" switch to turn her text off and keep the motion. The companion rules promise it. Decided: keep as should.
+
+## 6. Global-ready
+
+Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it. The full list is in [`14-global-ready.md`](14-global-ready.md).
+
+- A new Country row sits under Language. It opens the country picker (the one proposal in [design/14](14-global-ready.md)). Changing the country changes the emergency number, cards, rules, phone code and support link, never the language.
+- The "Call 103" row on Help shows her country's number.
+- The support link is Telegram in Uzbekistan and email elsewhere, until a country gets its own channel.
+- Export uses her language for column names, her date and number formats, and metric values with the unit in each column name.
+- Consent, terms, privacy and the 7-day delete grace come from the country's legal pack, which a lawyer checks before launch there.
+- Units stay off Settings in v1. They follow the country.
