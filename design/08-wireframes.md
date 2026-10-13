@@ -4,7 +4,7 @@ Page: [04 Wireframes](https://www.figma.com/design/bg1FIs5wZOY9m0wUWkTJTe/oyjon-
 
 Rebuilt on 13 Oct 2026 from the decided flows in `08` to `13` and the country rules in [`14-global-ready.md`](14-global-ready.md). The old 9 English screens are gone.
 
-57 grey screens, 390 x 844, grouped by flow in the same order as the FigJam board. Plain greys, no brand colour yet. Titles are Source Serif 4 and the interface is Onest. All copy is uz-Latn with Uzbekistan as the default country. Each screen has its code, its state, a "why it's here" line and notes on what happens around it.
+56 grey screens, 390 x 844, grouped by flow in the same order as the FigJam board. Plain greys, no brand colour yet. Titles are Source Serif 4 and the interface is Onest. All copy is uz-Latn with Uzbekistan as the default country. Each screen has its code and state in the frame name and one line under it saying why it's in the app. The detailed notes live in the flow write-ups.
 
 | Flow | Screens |
 |---|---|
