@@ -175,18 +175,18 @@ Four taps from the notification to a sent card.
 
 ## 4. Decisions
 
-All picked by me on 13 Oct 2026 so the work could keep going. Each is open for the user to keep or change.
+Picked by Claude on 13 Oct 2026 and decided on 13 Oct 2026. Shokhnur can still change any of them.
 
-1. The card is story size, 9:16, in v1. My pick: yes.
-2. No health numbers on the card, only age, name, dates and her sentence. My pick: yes.
-3. No baby photo on the card in v1. My pick: later.
-4. The notification comes at 10:00 and only if she turned notifications on. Today shows a card either way. My pick: yes.
-5. The month-day is the birth date, or the month's last day when it's shorter. My pick: yes.
-6. The card never expires. "4-oy tayyor" waits on M1. My pick: yes.
-7. Save plus the phone's share sheet, no separate Telegram button. My pick: yes.
-8. A toggle to hide the baby's name on the card. My pick: keep as should.
-9. A row of past moons on M1 to reopen old cards. My pick: keep as should, with M3 staying on Later.
-10. Two card styles to swipe. My pick: keep as should.
+1. The card is story size, 9:16, in v1. Decided: yes.
+2. No health numbers on the card, only age, name, dates and her sentence. Decided: yes.
+3. No baby photo on the card in v1. Decided: later.
+4. The notification comes at 10:00 and only if she turned notifications on. Today shows a card either way. Decided: yes.
+5. The month-day is the birth date, or the month's last day when it's shorter. Decided: yes.
+6. The card never expires. "4-oy tayyor" waits on M1. Decided: yes.
+7. Save plus the phone's share sheet, no separate Telegram button. Decided: yes.
+8. A toggle to hide the baby's name on the card. Decided: keep as should.
+9. A row of past moons on M1 to reopen old cards. Decided: keep as should, with M3 staying on Later.
+10. Two card styles to swipe. Decided: later (changed on 13 Oct after the screen rationale review).
 
 To do before the final screens:
 
@@ -206,7 +206,7 @@ Four taps from the notification to a sent card.
 3. M1, the moon fills and Oyim turns full. A tap skips the moment. Several waiting moons all stay ready.
 4. No sentence yet? Oyim asks for one. Chips start it, 120 characters, skip works.
 5. M2 keepsake card. Hide name also hides the dates. Moon 12 says "1 yosh".
-6. Saqlash or Ulashish. Gallery access is asked right there. Offline, save works and the share waits in Telegram.
+6. Saqlash or Ulashish. Gallery access is asked right there. Offline, save works and the share waits in the app she picked, which for most Uzbek mums is Telegram.
 7. Back on M1, full until the next month-day.
 
 ### Issues and fixes
@@ -222,9 +222,18 @@ Four taps from the notification to a sent card.
 | 7 | must | Old Androids need storage access to save | Ask when she taps Saqlash. Ulashish works either way |
 | 8 | should | Moon 12 is the first birthday | Card says "1 yosh", moons keep counting after |
 | 9 | should | Fixing the birth date moves the moon | Saved cards stay as made, Settings warns first |
-| 10 | should | Offline | The card is made on the phone. Save works, a Telegram share waits |
+| 10 | should | Offline | The card is made on the phone. Save works, the share waits in the app she picked |
 | 11 | should | The full-moon moment can drag | 2 to 3 seconds, a tap skips it, still with Reduce Motion |
 
-### Keep or drop
+### Keep or drop, decided 13 Oct 2026
 
-1. Cards for the months before she installed the app. My pick: later. Added to the Later page as a proposal.
+1. Cards for the months before she installed the app. Decided: later. Added to the Later page as a proposal.
+
+## 6. Global-ready
+
+Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it. The full list is in [`14-global-ready.md`](14-global-ready.md).
+
+- The month-day notification comes at 10:00 on the phone's clock, wherever she is.
+- The card's dates use her language's format, and it stays in the language it was made in.
+- Save and share go through the phone's share sheet. Telegram and Instagram show first for most Uzbek mums because they use them. No app is named in the design.
+- The age line ("4 oylik", "1 yosh") uses her language's plural rules. Cyrillic and Russian get the same 120 characters, and the layout is checked with the longest one.

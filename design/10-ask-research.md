@@ -186,18 +186,18 @@ Most questions take two taps after typing.
 
 ## 4. Decisions
 
-All picked by me on 13 Oct 2026 so the work could keep going. Each is open for the user to keep or change.
+Picked by Claude on 13 Oct 2026 and decided on 13 Oct 2026. Shokhnur can still change any of them.
 
-1. Oyim answers only from doctor-reviewed cards. If none fit, she says so and doesn't guess. My pick: yes.
-2. Red-flag questions and "no checked answer" don't use up one of the 3 weekly questions. My pick: yes.
-3. Questions come back on Monday at 00:00 Tashkent time, shown as three small moons. My pick: yes.
-4. Each answer shows what Oyim looked at, like the last 24 hours of feeds and diapers. My pick: yes.
-5. The mic on A1 moves to Later, with voice logging. My pick: later.
-6. Her follow-up counts as a new question. Oyim's own question back doesn't. My pick: yes.
-7. A3 has a small "I'm OK, go back" link and never shows Oyim. My pick: yes.
-8. "Was this helpful?" on each answer. My pick: keep as should.
-9. My questions history, kept on the phone. My pick: keep as should.
-10. Photo questions go to Later. My pick: later.
+1. Oyim answers only from doctor-reviewed cards. If none fit, she says so and doesn't guess. Decided: yes.
+2. Red-flag questions and "no checked answer" don't use up one of the 3 weekly questions. Decided: yes.
+3. Questions come back on Monday at 00:00 in her own time zone (Tashkent for Uzbekistan), shown as three small moons. Decided: yes.
+4. Each answer shows what Oyim looked at, like the last 24 hours of feeds and diapers. Decided: yes.
+5. The mic on A1 moves to Later, with voice logging. Decided: later.
+6. Her follow-up counts as a new question. Oyim's own question back doesn't. Decided: yes.
+7. A3 has a small "I'm OK, go back" link and never shows Oyim. Decided: yes.
+8. "Was this helpful?" on each answer. Decided: keep as should.
+9. My questions history, kept on the phone. Decided: keep as should.
+10. Photo questions go to Later. Decided: later.
 
 To do before the final screens:
 
@@ -234,3 +234,13 @@ Done on 13 Oct 2026. I asked questions as a worried mum at night: typed with mis
 | 8 | should | After A3 she needs a calm way back | "I'm OK, go back" returns to A1 with her question and cards |
 | 9 | should | She can't tell a follow-up uses a question | "2 left this week" next to the input on A2 too |
 | 10 | should | Oyim's role during the answer | Thinking moon while loading, then she shrinks. The answer is the card's words and the reviewer's name |
+
+## 6. Global-ready
+
+Added on 13 Oct 2026. Uzbekistan is the default, and nothing here is fixed to it. The full list is in [`14-global-ready.md`](14-global-ready.md).
+
+- The 3 questions come back on Monday at 00:00 in her own time zone. Uzbekistan is Tashkent time. The server keeps the family's time zone.
+- Cards come from her country's content pack, in her language. Uzbekistan uses `uz-v1`. Other countries use it too until a local doctor reviews their own.
+- The red-flag check reads every script people in her country type. In Uzbekistan that's Uzbek Latin, Uzbek Cyrillic and Russian.
+- A3 and the line under the input show her country's emergency number, 103 in Uzbekistan. The A3 wording comes from the country's doctor-signed pack.
+- Answers come in the app's language, whatever language she typed in.
